@@ -1,11 +1,11 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="走りたいメロス"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「走りたいメロス」[l][r]
 
 メロスは激怒した。[l][r]
 
@@ -26,8 +26,8 @@
 
 [bg storage=sleep.jpg time=500]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+メロスは絶望し深く眠った。[l][r]
+勇者は、冷たい視線を送った。[r]
 
 【 BAD END 】[l][cm]
 
